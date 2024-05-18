@@ -44,7 +44,7 @@ We welcome contributions from the community! If you find a bug or have a feature
 
 ## License
 
-TELP is released under the [MIT License](LICENSE).
+TELP is released under the [MIT License](https://en.wikipedia.org/wiki/MIT_License).
 
 ## Contact
 
