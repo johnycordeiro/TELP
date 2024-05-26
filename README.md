@@ -20,7 +20,7 @@ TELP is particularly valuable for linguistic studies involving under-resourced l
 
 ### Windows
 
-1. Download the latest Windows installer from the [releases](https://www.di.ubi.pt/~jpaulo/a/TELP-1.1.exe) page.
+1. Download the latest Windows installer from the [releases](https://www.di.ubi.pt/~jpaulo/a/TELP-1.2.exe) page.
 2. Run the installer and follow the on-screen instructions.
 3. Once installed, launch TELP from the Start Menu or desktop shortcut.
 
