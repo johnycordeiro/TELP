@@ -26,7 +26,7 @@ TELP is particularly valuable for linguistic studies involving under-resourced l
 
 ### MacOS X
 
-1. Download the latest MacOS X installer from the [releases](https://www.di.ubi.pt/~jpaulo/a/TELP-1.1.dmg) page.
+1. Download the latest MacOS X installer from the [releases](https://www.di.ubi.pt/~jpaulo/a/TELP-1.2.dmg) page.
 2. Open the downloaded `.dmg` file and drag the TELP application to your Applications folder.
 3. Open TELP from the Applications folder.
 
