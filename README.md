@@ -16,6 +16,16 @@ TELP is particularly valuable for linguistic studies involving under-resourced l
 - **Multi-Language Support**: Configurable for various languages, facilitating global linguistic research.
 - **Customizable Crawling Parameters**: Set specific URLs, crawling depth, and timeout settings.
 
+
+## Citing our Work
+
+More specific information about TELP can be obtained in the following publication:
+
+*Cordeiro, J. P., Silvano, P. M., Leal, A., & Pais, S. (2024, May). TELP–Text Extraction with Linguistic Patterns. In Proceedings of the 3rd Annual Meeting of the Special Interest Group on Under-resourced Languages@ LREC-COLING 2024 (pp. 337-344).*
+
+If you find TELP useful, please cite it. This would help spread the tool throughout the community. Thank you in advance!
+
+
 ## Installation
 
 ### Windows
